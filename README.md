@@ -23,5 +23,3 @@ The game is built with JavaScript, and uses jQuery for DOM manipulation. The gam
 This is a basic implementation of the Simon game, and can easily be expanded upon to add additional features and gameplay elements. It can be used as a starting point for creating your own Simon game or similar memory-based games. The Simon game was first introduced by Milton Bradley (now a part of Hasbro) in 1978 and it is still considered a classic game today.
 
 ## [Checkout the Result](https://guieltorres.github.io/the-simon-game-challenge/)
-
-# the-simon-game-challenge
